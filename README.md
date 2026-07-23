@@ -1,0 +1,75 @@
+# Awesome Arabic AI 🌐🤖
+
+> A curated, bilingual (العربية / English) list of resources for building Arabic-first AI, LLMs, and NLP systems.
+> Maintained by [@faresrafat3](https://github.com/faresrafat3) · 💼 [Hire me on Mostaql](https://mostaql.com/u/faresrafat3)
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e882/ad/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A living, community-driven index of the best open models, datasets, benchmarks, tools, and papers for **Arabic language AI**. If you build chatbots, RAG systems, or agents that need to understand and speak Arabic correctly — start here.
+
+---
+
+## 📑 Table of Contents
+- [🤖 Models](#-models)
+- [📚 Datasets](#-datasets)
+- [🛠️ Tools & Libraries](#️-tools--libraries)
+- [📊 Benchmarks & Eval](#-benchmarks--eval)
+- [📄 Papers](#-papers)
+- [🎓 Courses & Communities](#-courses--communities)
+- [💡 Project Ideas](#-project-ideas)
+
+---
+
+## 🤖 Models
+- **[AraBERT](https://huggingface.co/bert-base-arabert)** — SOTA Arabic BERT for classification & NER.
+- **[Jais](https://huggingface.co/inceptionai/jais-13b)** — Open bilingual (Arabic/English) LLM by Inception.
+- **[AceGPT](https://huggingface.co/FreedomIntelligence/AceGPT-7B)** — Arabic-centric instruction-tuned LLM.
+- **[ALLaM](https://huggingface.co/allam-ai)** — Saudi-opened Arabic LLM family.
+- **[QariB](https://huggingface.co/QARI-AI/QariB-1B)** — Lightweight Arabic reasoning model.
+
+## 📚 Datasets
+- **[Arabic MTEB](https://huggingface.co/datasets/Intron-lab/ArabicMTEB)** — Benchmark suite for Arabic embeddings.
+- **[CAMeL Lab Arabic NER](https://camel-lab.github.io)** — Annotated NER corpus (ANERcorp, etc.).
+- **[Arabic Speech Corpus](https://arabicspeech.com)** — Phonetically annotated Quranic/Modern Standard Arabic.
+- **[SemEval Arabic Sentiment](https://alt.qcri.org/semeval2017/task4/)** — Sentiment analysis datasets.
+
+## 🛠️ Tools & Libraries
+- **[CamelTools](https://github.com/CAMeL-Lab/camel_tools)** — Morphology, disambiguation, NER, sentiment for Arabic.
+- **[pyarabic](https://github.com/linuxscout/pyarabic)** — Arabic text processing utilities.
+- **[Farasa](https://github.com/qcri/farasa)** — Fast Arabic segmentation & stemming.
+- **[Tashaphyne](https://github.com/linuxscout/tashaphyne)** — Light stemmer for Arabic.
+- **[ARLLM (my related work)](https://github.com/faresrafat3/semitic-router)** — Hybrid neural/symbolic routing for Semitic morphology.
+
+## 📊 Benchmarks & Eval
+- **[ArabicMMLU](https://huggingface.co/datasets/OpenLLM-Arabic/OpenLLM-Arabic-Eval)** — Multitask Arabic understanding eval.
+- **[ACVA](https://github.com/ZM-AI-Lab/ACVA)** — Association for Computational Linguistics Arabic eval.
+- **[Arabic LLM Leaderboard](https://huggingface.co/spaces/imomayiz/arabic-llm-leaderboard)** — Community leaderboard.
+
+## 📄 Papers
+- *AraBERT: Transformer-based Model for Arabic* (Antoun et al., 2019)
+- *Jais: A 13B Arabic/English Bilingual LLM* (Sengupta et al., 2023)
+- *AceGPT: Advancing LLMs in Arabic* (Huang et al., 2023)
+- *Cognitive Economy in LLM Routing* (see my [AI Cost Library](https://github.com/faresrafat3/ai-cost-library))
+
+## 🎓 Courses & Communities
+- **[Arabic NLP Reading Group](https://twitter.com/ArabicNLP)** — ACL Arabic NLP SIG.
+- **[CAMeL Lab](https://camel-lab.github.io)** — Research group (CMU/QCRI heritage).
+- **[Hugging Face Arabic community](https://huggingface.co/arabic)** — Models & discussions.
+- **[r/LanguageTechnology](https://reddit.com/r/LanguageTechnology)** — Broad NLP, Arabic threads common.
+
+## 💡 Project Ideas
+1. Build a RAG chatbot over an Arabic PDF library (try my [RAG SaaS Starter](https://github.com/faresrafat3/rag-saas-starter)).
+2. Fine-tune a small model for Egyptian/Dialect classification.
+3. Add Arabic RTL support + streaming to any open LLM UI.
+4. Benchmark cost vs. quality across Jais / AceGPT / ALLaM for your use case.
+
+---
+
+## 🤝 Contributing
+Found a great Arabic AI resource? PRs are welcome! Read [CONTRIBUTING.md](CONTRIBUTING.md).
+Please keep entries bilingual-labeled (AR/EN) and citation-backed.
+
+## 📜 License
+Content under [MIT](LICENSE) — link back to this list when reusing.
