@@ -31,7 +31,7 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 
 ## 📚 Datasets
 - **[Arabic MTEB](https://huggingface.co/datasets/Intron-lab/ArabicMTEB)** — Benchmark suite for Arabic embeddings.
-- **[CAMeL Lab Arabic NER](https://camel-lab.github.io)** — Annotated NER corpus (ANERcorp, etc.).
+- **[CAMeL Lab Arabic NER](https://camel-lab.com)** — Annotated NER corpora (ANERcorp, ANERcorp-Camel, etc.) from NYU Abu Dhabi. (AR)
 - **[Arabic Speech Corpus](https://arabicspeech.com)** — Phonetically annotated Quranic/Modern Standard Arabic.
 - **[SemEval Arabic Sentiment](https://alt.qcri.org/semeval2017/task4/)** — Sentiment analysis datasets.
 
@@ -44,7 +44,9 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 
 ## 📊 Benchmarks & Eval
 - **[ArabicMMLU](https://huggingface.co/datasets/OpenLLM-Arabic/OpenLLM-Arabic-Eval)** — Multitask Arabic understanding eval.
-- **[ACVA](https://github.com/ZM-AI-Lab/ACVA)** — Association for Computational Linguistics Arabic eval.
+- **[ORCA: A Challenging Benchmark for Arabic Language Understanding](https://arxiv.org/abs/2212.10758)** (Elmadany et al., 2023) — Cross-task Arabic understanding benchmark with model performance leaderboard. (AR)
+- **[CAMEL-Bench: A Comprehensive Arabic LMM Benchmark](https://arxiv.org/abs/2410.18976)** (Ghosh et al., 2024) — Multimodal benchmark for Arabic large multimodal models. (AR/EN)
+- **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](https://arxiv.org/abs/2505.17021)** (Khalid et al., 2025) — Multimodal reasoning across images, charts, and documents in Arabic. (AR/EN)
 - **[Arabic LLM Leaderboard](https://huggingface.co/spaces/imomayiz/arabic-llm-leaderboard)** — Community leaderboard.
 
 ## 📄 Papers
@@ -59,7 +61,7 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 
 ## 🎓 Courses & Communities
 - **[Arabic NLP Reading Group](https://twitter.com/ArabicNLP)** — ACL Arabic NLP SIG.
-- **[CAMeL Lab](https://camel-lab.github.io)** — Research group (CMU/QCRI heritage).
+- **[CAMeL Lab](https://camel-lab.com)** — Research group at NYU Abu Dhabi (Arabic morphology, NER, dialect ID).
 - **[Hugging Face Arabic community](https://huggingface.co/arabic)** — Models & discussions.
 - **[r/LanguageTechnology](https://reddit.com/r/LanguageTechnology)** — Broad NLP, Arabic threads common.
 
