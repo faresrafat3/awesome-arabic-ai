@@ -48,10 +48,14 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 - **[Arabic LLM Leaderboard](https://huggingface.co/spaces/imomayiz/arabic-llm-leaderboard)** — Community leaderboard.
 
 ## 📄 Papers
-- *AraBERT: Transformer-based Model for Arabic* (Antoun et al., 2019)
-- *Jais: A 13B Arabic/English Bilingual LLM* (Sengupta et al., 2023)
-- *AceGPT: Advancing LLMs in Arabic* (Huang et al., 2023)
-- *Cognitive Economy in LLM Routing* (see my [AI Cost Library](https://github.com/faresrafat3/ai-cost-library))
+- **[AraBERT: Transformer-based Model for Arabic Language Understanding](https://arxiv.org/abs/2003.00104)** (Antoun et al., 2020) — Original Arabic BERT; the canonical baseline for classification & NER. (AR/EN)
+- **[AraT5: Text-to-Text Transformers for Arabic Language Generation](https://arxiv.org/abs/2109.12068)** (Nagoudi et al., 2022) — Arabic T5 family for generation, summarization, and seq2seq. (AR/EN)
+- **[Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative LLMs](https://arxiv.org/abs/2308.16149)** (Sengupta et al., 2023) — 13B/30B/70B Arabic-centric decoder LLM with bilingual instruction tuning. (AR/EN)
+- **[AceGPT: Localizing Large Language Models in Arabic](https://arxiv.org/abs/2309.12053)** (Huang et al., 2024) — Arabic-LLaMA fine-tune with cultural alignment. (AR/EN)
+- **[ALLaM: Large Language Models for Arabic and English](https://arxiv.org/abs/2407.15390)** (Bari et al., 2024) — Saudi-developed Arabic/English LLM with explicit ArabicNLP evaluation. (AR/EN)
+- **[Fanar: An Arabic-Centric Multimodal Generative AI Platform](https://arxiv.org/abs/2501.13944)** (Team Fanar, 2025) — Arabic-centric multimodal platform (text + image + speech). (AR/EN)
+- **[CAMEL-Bench: A Comprehensive Arabic LMM Benchmark](https://arxiv.org/abs/2410.18976)** (Ghosh et al., 2024) — Comprehensive multimodal benchmark for Arabic LMMs. (AR/EN)
+- **[Cognitive Economy in LLM Routing](https://github.com/faresrafat3/ai-cost-library)** — Bilingual evidence-based library on cost-vs-quality tradeoffs across Arabic LLM tiers. (AR/EN)
 
 ## 🎓 Courses & Communities
 - **[Arabic NLP Reading Group](https://twitter.com/ArabicNLP)** — ACL Arabic NLP SIG.
@@ -64,6 +68,7 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 2. Fine-tune a small model for Egyptian/Dialect classification.
 3. Add Arabic RTL support + streaming to any open LLM UI.
 4. Benchmark cost vs. quality across Jais / AceGPT / ALLaM for your use case.
+5. **Replicate [AraBERT's NER pipeline](https://arxiv.org/abs/2003.00104) on a dialectal corpus** (Egyptian/Gulf/Levantine) and report the F1 drop vs. MSA — dialectal Arabic is the most underserved slice of the stack.
 
 ---
 
