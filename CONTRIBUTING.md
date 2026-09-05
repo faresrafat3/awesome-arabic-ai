@@ -1,1 +1,15 @@
-# Contributing to Awesome Arabic AI\n\nThanks for helping grow the Arabic AI community!\n\n## How to add a resource\n1. Fork & branch (`git checkout -b add/my-resource`).\n2. Add your entry under the correct section in `README.md`.\n3. Label it AR/EN and include a link + one-line description.\n4. Prefer citation-backed, open-access resources.\n5. Open a PR with a short rationale.\n\n## Rules\n- No paywalled-only or spam links.\n- Keep it bilingual-friendly.\n- One resource per PR is fine.\n
+# Contributing to Awesome Arabic AI
+
+Thanks for helping grow the Arabic AI community!
+
+## How to add a resource
+1. Fork & branch (`git checkout -b add/my-resource`).
+2. Add your entry under the correct section in `README.md`.
+3. Label it AR/EN and include a link + one-line description.
+4. Prefer citation-backed, open-access resources.
+5. Open a PR with a short rationale.
+
+## Rules
+- No paywalled-only or spam links.
+- Keep it bilingual-friendly.
+- One resource per PR is fine.
