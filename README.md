@@ -28,6 +28,8 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 - **[AceGPT](https://huggingface.co/FreedomIntelligence/AceGPT-7B)** — Arabic-centric instruction-tuned LLM.
 - **[ALLaM](https://huggingface.co/humain-ai/ALLaM-7B-Instruct-preview)** — Saudi-developed Arabic LLM family. (Original `allam-ai` org URL 404s; model now lives under `humain-ai`.)
 - **[QariB](https://huggingface.co/ahmedabdelali/bert-base-qarib)** — Lightweight Arabic reasoning model. (Original `QARI-AI/QariB-1B` URL 404s; closest active QariB model on HF is `ahmedabdelali/bert-base-qarib`.)
+- **[Arabic wav2vec2 XLSR-53](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-arabic)** — Most-downloaded Arabic speech recognition model on HF (~2.5M downloads as of 2026-09-04). Fine-tuned from Facebook AI's XLSR-53 on Arabic Common Voice.
+- **[Arabic SBERT](https://huggingface.co/akhooli/Arabic-SBERT-100K)** — Sentence-level Arabic embeddings for semantic similarity, clustering, and retrieval. (AR)
 
 ## 📚 Datasets
 - **[Arabic MTEB](https://huggingface.co/datasets?other=mteb)** — Benchmark suite for Arabic embeddings. (Original `Intron-lab/ArabicMTEB` URL 404s; the MTEB org now hosts Arabic tasks under the [mteb](https://huggingface.co/mteb) namespace.)
