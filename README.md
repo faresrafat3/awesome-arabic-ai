@@ -45,10 +45,12 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 - **[ARLLM (my related work)](https://github.com/faresrafat3/semitic-router)** — Hybrid neural/symbolic routing for Semitic morphology.
 
 ## 📊 Benchmarks & Eval
-- **[ArabicMMLU](https://huggingface.co/datasets?other=OpenLLM-Arabic)** — Multitask Arabic understanding eval. (Original `OpenLLM-Arabic/OpenLLM-Arabic-Eval` URL 404s; OpenLLM-Arabic still publishes under the [OpenLLM-Arabic](https://huggingface.co/OpenLLM-Arabic) org.)
+- **[ArabicMMLU](https://huggingface.co/datasets/MBZUAI/ArabicMMLU)** — The canonical Arabic MMLU benchmark from MBZUAI; ~6.7K downloads as of 2026-09-04, 10K-100K rows, CC-BY-NC-4.0. (AR) (Original `OpenLLM-Arabic/OpenLLM-Arabic-Eval` URL 404s; the canonical ArabicMMLU is now published by MBZUAI.)
 - **[ORCA: A Challenging Benchmark for Arabic Language Understanding](https://arxiv.org/abs/2212.10758)** (Elmadany et al., 2023) — Cross-task Arabic understanding benchmark with model performance leaderboard. (AR)
 - **[CAMEL-Bench: A Comprehensive Arabic LMM Benchmark](https://arxiv.org/abs/2410.18976)** (Ghosh et al., 2024) — Multimodal benchmark for Arabic large multimodal models. (AR/EN)
 - **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](https://arxiv.org/abs/2505.17021)** (Khalid et al., 2025) — Multimodal reasoning across images, charts, and documents in Arabic. (AR/EN)
+- **[AlGhafa Arabic LLM Benchmark (Native)](https://huggingface.co/datasets/OALL/AlGhafa-Arabic-LLM-Benchmark-Native)** — Arabic LLM evaluation in Arabic only (no English translation); ~6.9K downloads. (AR)
+- **[Arabic EXAMS](https://huggingface.co/datasets/OALL/Arabic_EXAMS)** — Arabic exam questions from educational sources across multiple subjects and countries. (AR)
 - **[Arabic LLM Leaderboard](https://huggingface.co/spaces?other=arabic-llm)** — Community leaderboard. (Original `imomayiz/arabic-llm-leaderboard` Space 404s; current Arabic LLM leaderboards on HF are searchable under the [arabic-llm tag](https://huggingface.co/spaces?other=arabic-llm).)
 
 ## 📄 Papers
