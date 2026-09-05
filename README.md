@@ -28,7 +28,7 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 - **[AceGPT](https://huggingface.co/FreedomIntelligence/AceGPT-7B)** — Arabic-centric instruction-tuned LLM.
 - **[ALLaM](https://huggingface.co/humain-ai/ALLaM-7B-Instruct-preview)** — Saudi-developed Arabic LLM family. (Original `allam-ai` org URL 404s; model now lives under `humain-ai`.)
 - **[QariB](https://huggingface.co/ahmedabdelali/bert-base-qarib)** — Lightweight Arabic reasoning model. (Original `QARI-AI/QariB-1B` URL 404s; closest active QariB model on HF is `ahmedabdelali/bert-base-qarib`.)
-- **[Arabic wav2vec2 XLSR-53](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-arabic)** — Most-downloaded Arabic speech recognition model on HF (~2.5M downloads as of 2026-09-04). Fine-tuned from Facebook AI's XLSR-53 on Arabic Common Voice.
+- **[Arabic wav2vec2 XLSR-53](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-arabic)** — Most-downloaded Arabic speech recognition model on HF (~2.5M downloads as of 2026-09-05). Fine-tuned from Facebook AI's XLSR-53 on Arabic Common Voice.
 - **[Arabic SBERT](https://huggingface.co/akhooli/Arabic-SBERT-100K)** — Sentence-level Arabic embeddings for semantic similarity, clustering, and retrieval. (AR)
 
 ## 📚 Datasets
@@ -45,7 +45,7 @@ A living, community-driven index of the best open models, datasets, benchmarks, 
 - **[ARLLM (my related work)](https://github.com/faresrafat3/semitic-router)** — Hybrid neural/symbolic routing for Semitic morphology.
 
 ## 📊 Benchmarks & Eval
-- **[ArabicMMLU](https://huggingface.co/datasets/MBZUAI/ArabicMMLU)** — The canonical Arabic MMLU benchmark from MBZUAI; ~6.7K downloads as of 2026-09-04, 10K-100K rows, CC-BY-NC-4.0. (AR) (Original `OpenLLM-Arabic/OpenLLM-Arabic-Eval` URL 404s; the canonical ArabicMMLU is now published by MBZUAI.)
+- **[ArabicMMLU](https://huggingface.co/datasets/MBZUAI/ArabicMMLU)** — The canonical Arabic MMLU benchmark from MBZUAI; ~6.7K downloads as of 2026-09-05, 10K-100K rows, CC-BY-NC-4.0. (AR) (Original `OpenLLM-Arabic/OpenLLM-Arabic-Eval` URL 404s; the canonical ArabicMMLU is now published by MBZUAI.)
 - **[ORCA: A Challenging Benchmark for Arabic Language Understanding](https://arxiv.org/abs/2212.10758)** (Elmadany et al., 2023) — Cross-task Arabic understanding benchmark with model performance leaderboard. (AR)
 - **[CAMEL-Bench: A Comprehensive Arabic LMM Benchmark](https://arxiv.org/abs/2410.18976)** (Ghosh et al., 2024) — Multimodal benchmark for Arabic large multimodal models. (AR/EN)
 - **[ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark](https://arxiv.org/abs/2505.17021)** (Khalid et al., 2025) — Multimodal reasoning across images, charts, and documents in Arabic. (AR/EN)
